@@ -1,2 +1,2 @@
-# CarShoot-VeryOld-
-A very old java game made with swift
+# CarShoot_Old
+### ❗Very old game made in Java with no libs (Swing based renderer)
